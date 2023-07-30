@@ -1,0 +1,15 @@
+C:\Seminar220\bin\Debug\net6.0\Seminar220.exe
+C:\Seminar220\bin\Debug\net6.0\Seminar220.deps.json
+C:\Seminar220\bin\Debug\net6.0\Seminar220.runtimeconfig.json
+C:\Seminar220\bin\Debug\net6.0\Seminar220.dll
+C:\Seminar220\bin\Debug\net6.0\Seminar220.pdb
+C:\Seminar220\obj\Debug\net6.0\Seminar220.csproj.AssemblyReference.cache
+C:\Seminar220\obj\Debug\net6.0\Seminar220.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seminar220\obj\Debug\net6.0\Seminar220.AssemblyInfoInputs.cache
+C:\Seminar220\obj\Debug\net6.0\Seminar220.AssemblyInfo.cs
+C:\Seminar220\obj\Debug\net6.0\Seminar220.csproj.CoreCompileInputs.cache
+C:\Seminar220\obj\Debug\net6.0\Seminar220.dll
+C:\Seminar220\obj\Debug\net6.0\refint\Seminar220.dll
+C:\Seminar220\obj\Debug\net6.0\Seminar220.pdb
+C:\Seminar220\obj\Debug\net6.0\Seminar220.genruntimeconfig.cache
+C:\Seminar220\obj\Debug\net6.0\ref\Seminar220.dll
